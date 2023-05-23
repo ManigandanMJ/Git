@@ -21,7 +21,7 @@ Question 3
 
   - Created a feature branch.
   - Switched to new branch and commited changes to the file.
-  - Pushed the chnages to feature branch.
+  - Pushed the changes to feature branch.
   - created pull request.
   - Added and commited to the main branch.
   - Pushed the changes to the main branch.
@@ -42,4 +42,4 @@ Question 5
   - Using "git log" command received commit ID's.
   - Using "git reset commitID" reset was done.
   - Verified if reset is occured.
-  - Using "git revert commitID" moved header to the selcted commitID and checked if reverted.
+  - Using "git revert commitID" moved header to the selected commitID and checked if reverted.
