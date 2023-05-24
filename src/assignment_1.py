@@ -11,5 +11,5 @@ if f == 1:
     print("**Completed**")
 else:
     print("**End***")
-print("reset commit")
+print("Reset commit")
 print("Updated reset commit")
